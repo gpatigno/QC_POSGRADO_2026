@@ -35,18 +35,19 @@ A partir de este recurso, desarrolle las siguientes actividades:
 ---
 
 ### **2. (10%) Extensión para $n$ qubits**
-- Analice el siguiente Notebook, el cual presenta una mejora con relación al tutorial anterior extendiendo dicho Algoritmo de Grover para el caso de **$n$ qubits**.
+- Analice el siguiente Notebook, el cual presenta una mejora con relación al tutorial anterior, extendiendo dicho Algoritmo de Grover para el caso de **$n$ qubits**.
 
   🔗 https://github.com/gpatigno/QC_POSGRADO_2026/blob/main/LAB/PR3/N-Grover_AnyMark_2026.ipynb
 
 - Descargue este Notebook, y ejecute su simulación para **2 qubits**.
 - Compare dicha ejecución con aquella presentada en el tutorial original de **Qiskit**.
 - Igualmente compare esta ejecución con su análisis obtenidos manualmente de cada etapa del circuito de Grover.
+- Documente y explique sus comparaciones realizadas.
 
 ---
 
 ### **3. (20%) Modularización del circuito**
-Modifique el Notebook para construir una versión **modular** del algoritmo de Grover:
+Modifique el Notebook anterior para construir una versión **modular** del algoritmo de Grover:
 
 - Organice el circuito cuántico en bloques funcionales.  
 - Asegúrese de que la implementación corresponda al siguiente esquema:
@@ -91,7 +92,7 @@ Para cada caso, reporte:
   - Iteraciones  
 
 - En la definición del bloque del Oracle, explique cómo este circuito modifica la fase del estado buscado (estado marcado).
-- Igualmente, en la definición del bloque del difusor, explique como se lleva a cabo la _inversión sobre la media_: 
+- Igualmente, en la definición del bloque del difusor, demuestre matemáticamente cómo se lleva a cabo la _inversión sobre la media_: 
 
   $$2\ket{\psi}\bra{\psi}-I$$
 
