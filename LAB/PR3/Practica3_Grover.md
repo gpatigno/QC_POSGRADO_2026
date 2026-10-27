@@ -37,7 +37,7 @@ A partir de este recurso, desarrolle las siguientes actividades:
 ### **2. (10%) Extensión para $n$ qubits**
 - Analice el siguiente Notebook, el cual presenta una mejora con relación al tutorial anterior extendiendo dicho Algoritmo de Grover para el caso de **$n$ qubits**.
 
-  🔗 https://github.com/gpatigno/QC_2026/blob/main/PR3/N-Grover_AnyMark_2026.ipynb
+  🔗 https://github.com/gpatigno/QC_POSGRADO_2026/blob/main/LAB/PR3/N-Grover_AnyMark_2026.ipynb
 
 - Descargue este Notebook, y ejecute su simulación para **2 qubits**.
 - Compare dicha ejecución con aquella presentada en el tutorial original de **Qiskit**.
