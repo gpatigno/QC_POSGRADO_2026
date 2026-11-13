@@ -158,7 +158,7 @@ $$
 
 A partir de esta transformación, construya su **Hamiltoniano** de costo:
 
-$ H_C = \sum_i h_i Z_i + \sum_{i<j}J_{ij} Z_i Z_j + C $
+$$ H_C = \sum_i h_i Z_i + \sum_{i<j}J_{ij} Z_i Z_j + C $$
 
 Donde:
 
