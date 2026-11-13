@@ -85,7 +85,7 @@ Una vez definido el problema de optimización y su conjunto de datos, construya 
 En general, la formulación de un **problema QUBO** está dada por:
 
 $$
-\min_{\mathbf{x} \in {0, 1}^{n}}
+\min_{\mathbf{x} \in \\{0, 1 \\}^{n}}
 E(\mathbf{x}) =
 \mathbf{x}^{T}Q\mathbf{x}
 $$
