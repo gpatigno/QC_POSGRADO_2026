@@ -78,8 +78,9 @@ donde:
 
 A continuación se comparte el dataset de entrenamiento y el dataset de prueba, tal que todas las variables están normalizadas en $[0,1]$:
 
-* [Training Dataset](https://github.com/gpatigno/QC_2026/blob/main/PR4/traffic_train.csv)
-* [Testing Dataset](https://github.com/gpatigno/QC_2026/blob/main/PR4/traffic_test.csv)
+* [Training Dataset](https://github.com/gpatigno/QC_POSGRADO_2026/tree/main/LAB/PR4/traffic_train.csv)
+
+* [Testing Dataset](https://github.com/gpatigno/QC_POSGRADO_2026/tree/main/LAB/PR4/traffic_test.csv)
 
 <br>
 
