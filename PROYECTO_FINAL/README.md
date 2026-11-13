@@ -47,10 +47,10 @@ Presente una **formulación matemática** de su problema de optimización, ident
 Tenga presente que, de manera general, su problema de optimización deberá expresarse como:
 
 $$
-\begin{center}
+\begin{aligned}
 \min_{\mathbf{x}} \quad & f(\mathbf{x})\\
 \text{sujeto  a} \quad & g_i(\mathbf{x}) \leq 0 \quad \text{y/o} \quad h_j(\mathbf{x}) = 0
-\end{center}
+\end{aligned}
 $$
 
 Donde:
