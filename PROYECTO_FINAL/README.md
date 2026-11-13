@@ -205,12 +205,12 @@ Para la entrega del presente Proyecto Final, considere:
 * Realice una **exposición** de su solución completa llevada a cabo, teniendo presente todos los pasos indicados en esta guía.
 * Explique detalladamente el código fuente implementado.
 * Igualmente, explique detalladamente los resultados de optimización obtenidos, y su interpretación conceptual relacionada al problema original plenteado.
-* Si utilizó IA para implementar el presente Proyecto Final, realice una **Declaración Formal** de uso de IA, indicando qué modelo de IA utilizó, para qué la utilizó, y un resumen de los prompts utilizados.
+* Si utilizó IA para implementar algún aspecto del presente Proyecto Final, realice una **Declaración Formal** de uso de IA, indicando qué modelo de IA utilizó, para qué la utilizó, y un resumen de los *prompts* utilizados.
 * Finalmente, presente conclusiones y referencias bibliográficas utilizadas.
 
 ## 5.2 Código Fuente
 
-* Por favor comparta a mi correo electrónico (adolfo.patino@udea.edu.co), el enlace de su repositorio de GitHub, o del notebook en Google Colab, con la **implementación completa desarrollada**.
+* Por favor comparta a mi correo electrónico (adolfo.patino@udea.edu.co), el enlace de su repositorio de **GitHub**, o del notebook en **Google Colab**, con la **implementación completa desarrollada**.
 
 * En dicho código fuente incluya:
 
