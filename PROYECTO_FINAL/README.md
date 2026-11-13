@@ -49,7 +49,7 @@ Tenga presente que, de manera general, su problema de optimización deberá expr
 $$
 \begin{aligned}
 \min_{\mathbf{x}} \quad & f(\mathbf{x})\\
-\text{sujeto a} \quad & g_i(\mathbf{x}) \leq 0 \quad \text{y/o} \quad h_j(\mathbf{x}) = 0
+\text{sujeto  a} \quad & g_i(\mathbf{x}) \leq 0 \quad \text{y/o} \quad h_j(\mathbf{x}) = 0
 \end{aligned}
 $$
 
@@ -60,7 +60,7 @@ Donde:
 - $g_i(\mathbf{x})$ representa las restricciones de desigualdad (si las hay).
 - $h_j(\mathbf{x})$ representa las restricciones de igualdad (si las hay).
 
-Con ello, la formulación corresponderá a un **problema de minimización o maximización**.
+Con ello, la formulación matemática corresponderá a un **problema de minimización o maximización**.
 
 ## 3.3 Conjunto de datos
 
@@ -85,7 +85,7 @@ Una vez definido el problema de optimización y su conjunto de datos, construya 
 En general, la formulación de un **problema QUBO** está dada por:
 
 $$
-\min_{\mathbf{x}\in\{0,1\}^{n}}
+\min_{\mathbf{x} \in \{ 0,1 \}^{n}}
 E(\mathbf{x}) =
 \mathbf{x}^{T}Q\mathbf{x}
 $$
