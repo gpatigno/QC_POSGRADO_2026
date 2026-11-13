@@ -8,8 +8,8 @@
 # 1. Objetivos
 
 - Describir matemáticamente un problema de optimización específico mediante una formulación **QUBO (Quadratic Unconstrained Binary Optimization)**.
-- Diseñar e implementar un **Circuito Cuántico Variacional** requerido para resolver dicho problema **QUBO** mediante un abordaje **Variational Quantum Eigensolver** (**VQE**), o mediante el abordaje **Quantum Approximate Optimization Algorithm** (**QAOA**).
-- Implementar mediante **PennyLane** la solución al problema QUBO siguiendo uno de los abordajes indicados (**VQE** o **QAOA**).
+- Diseñar un **Circuito Cuántico Variacional** requerido para resolver dicho problema **QUBO** mediante un abordaje **Variational Quantum Eigensolver** (**VQE**), o mediante el abordaje **Quantum Approximate Optimization Algorithm** (**QAOA**).
+- Implementar mediante **PennyLane** la solución al problema QUBO indicada en el objetivo anterior.
 - Evaluar e interpretar los resultados obtenidos, cuidando la calidad de las soluciones y su relación con el problema original.
 
 ---
@@ -49,8 +49,7 @@ Tenga presente que, de manera general, su problema de optimización deberá expr
 $$
 \begin{aligned}
 \min_{\mathbf{x}} \quad & f(\mathbf{x})\\
-\text{sujeto a} \quad & g_i(\mathbf{x}) \leq 0 \quad \text{y/o}\\
-& h_j(\mathbf{x}) = 0
+\text{sujeto a} \quad & g_i(\mathbf{x}) \leq 0 \quad \text{y/o} \quad h_j(\mathbf{x}) = 0
 \end{aligned}
 $$
 
